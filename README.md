@@ -2,9 +2,10 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javieraponte&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javieraponte&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javieraponte&layout=compact)
 
-<h3>When I analyze, I rely on</h3>
+
 <p>
   <img alt="Excel" src="https://img.shields.io/badge/-excel-brightgreen?style=flat-square&logo=excel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat-square" />
