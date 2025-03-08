@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi there, I'm Javier Aponte!
 
-<!--
-**javieraponte/javieraponte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javieraponte&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>When I analyze, I rely on</h3>
+<p>
+  <img alt="Excel" src="https://img.shields.io/badge/-excel-brightgreen?style=flat-square&logo=excel&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img alt="Power Bi" src="https://img.shields.io/badge/-power%20bi-yellow?style=flat-square&logo=power%20bi&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-tableau-blue?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat-square" />
+</p>
