@@ -3,15 +3,13 @@
 ---
 
 <a href="https://github.com/javieraponte/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=javieraponte&hide=contribs,prs" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=javieraponte&hide=contribs,prs" />
 </a>
 <a href="https://github.com/javieraponte/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieraponte&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieraponte&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javieraponte&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javieraponte&layout=compact)
-
+---
 
 <p>
   <img alt="Excel" src="https://img.shields.io/badge/-excel-brightgreen?style=flat-square&logo=excel&logoColor=white" />
